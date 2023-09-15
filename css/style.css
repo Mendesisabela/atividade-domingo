@@ -28,11 +28,6 @@ code{
 	transition: 0.5s all;
 }
 
-.container{
-	width: 100%;
-
-}
-
 .card hr{
 	width: 100%;
 	border: none;
@@ -132,4 +127,14 @@ code{
     grid-template-columns: 2fr 3fr 2fr;
     margin: 0px;
     padding: 0px;
+}
+
+
+.container{
+	
+	
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 30px;
 }
