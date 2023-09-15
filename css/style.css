@@ -35,6 +35,7 @@ code{
 }
 
 .card .main{
+	
 	display: flex;
 	flex-direction: column;
 	width: 90%;
@@ -44,8 +45,6 @@ code{
 
 .card .main .img{ /*IMAGE*/
 	border-radius: 0.5rem;
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
 	max-width: 100%;
 	height: 250px;
 	object-fit: cover;
