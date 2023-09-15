@@ -28,6 +28,11 @@ code{
 	transition: 0.5s all;
 }
 
+.container{
+	width: 100%;
+
+}
+
 .card hr{
 	width: 100%;
 	border: none;
@@ -44,6 +49,8 @@ code{
 
 .card .main .img{ /*IMAGE*/
 	border-radius: 0.5rem;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 	max-width: 100%;
 	height: 250px;
 	object-fit: cover;
@@ -119,8 +126,10 @@ code{
 	filter: brightness(1.3);
 }
 
+
 .cardlist{
-    display: flex;
-    justify-content: space-between;
-    margin: 10px;
+	display: grid;
+    grid-template-columns: 2fr 3fr 2fr;
+    margin: 0px;
+    padding: 0px;
 }
