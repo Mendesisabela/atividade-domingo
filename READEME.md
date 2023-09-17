@@ -34,3 +34,11 @@ https://cdn.leonardo.ai/users/a2005fcd-6008-4e81-9db5-3d29af0fd041/generations/d
 
 URSO
 https://cdn.leonardo.ai/users/06bc284f-c79e-4ef5-9d2f-3b03b4c3fd26/generations/2cbedbb0-d82f-4ab4-8a4e-ae05d4d42d71/variations/Default_cute_wombat_in_tactical_gear_japanese_style_japanese_t_1_2cbedbb0-d82f-4ab4-8a4e-ae05d4d42d71_1.jpg
+
+
+
+DESIGNE PROPOSTO
+https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+
+ANIMACÃO
+https://animate.style
